@@ -1,6 +1,7 @@
 # Veritas Fire Solutions Website
 
 A responsive commercial website developed for Veritas Fire Solutions, an independent fire remediation consultancy serving clients across London and the surrounding areas.
+![Veritas Fire Solutions website preview](veritas-website-preview.png)
 
 ## Live Website
 
